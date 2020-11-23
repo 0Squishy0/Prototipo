@@ -1,0 +1,23 @@
+.index{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient( #5837AC,black);
+}
+
+.card-body{
+    background: #454545;
+}
+
+.CListas{
+    width: 100vw;
+    height: 100vh;
+    background:  #5837AC;
+}
+h3, h5{
+    color: white;
+}
+.CProfile{
+    width: 100vw;
+    height: 100vh;
+    background:  #5837AC;
+}
